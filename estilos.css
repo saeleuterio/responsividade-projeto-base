@@ -96,7 +96,7 @@ body {
   transition: 0.2s ease-in;
 
   @media (max-width: 768px) {
-    font-size: var(--fonte-size-s);  
+    font-size: var(--fonte-size-s);
   }
 
   &:hover {
@@ -117,7 +117,7 @@ body {
   gap: var(--gap-s);
 
   @media (max-width: 768px) {
-    & >  a.btn__primario {
+    & > a.btn__primario {
       text-align: center;
     }
 
