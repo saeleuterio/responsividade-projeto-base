@@ -75,7 +75,7 @@ body {
     @media (max-width: 425px) {
       width: 299px;
     }
-  }  
+  }
 }
 
 .cabecalho {
@@ -455,7 +455,7 @@ body {
     padding: 5rem 0;
 
     @media (max-width: 768px) {
-      padding: var(--padding-xl);
+      gap: var(--gap-xl);
       @media (max-width: 425px) {
         text-align: center;
       }
